@@ -1,0 +1,10 @@
+{
+    "global": {
+        "project_id": "ce-sap-latam-demo",
+        "dataset_id": "cortex_sap_cora",
+        "location_id": "us-central1",
+        "service_account_key": "config/ce-sap-latam-demo-8e943944d80b.json",
+        "authentication_scope": "https://www.googleapis.com/auth/cloud-platform, https://www.googleapis.com/auth/bigquery",
+        "vertex_ai_model": "gemini-1.0-pro"
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ce-sap-latam-demo",
+  "private_key_id": "8e943944d80bc728dd5e5584c28dcdea81fae3e2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCZjYhFwXnEHagy\njfOha3yv7Cow88psuhNZqLGM+dYkCs6+2FQfZ01ohM7PjLIuclDxQrHlZo3Ohbxi\npW1aCNVbWArXlHbS+auhiJkjPuLCmzY8Mc5bATXUYbOIKqSCvpbSDZsNNP6AwuVf\nfNIXLjR2wIfuTb5+/BxGB/8nny/OaZ+iFGS355uwlTrnNldqWrQlEgxPdh76Jqmn\no6GaKgEsruTnpw//JaNOHWPRaOmIvofQXB047c63vSRFCoZ5E/qXbrnTVNJAPPzZ\nv1exm2ZW1wDqk13ky7/k2SP0ju6PUM3XR0xL5nBQ53rNbFnG0G2TGd+wcCWf7PRh\nTmJJJsKdAgMBAAECggEADsAVSJoiz8+Hgj+3mRiBtEaL8QLiPZqMVE8Lqz6uruyo\n2pVeU1vxiCpF0ZMy5JpPozVkcGRvF9kp9RHuFLmHgUxOUlItLewU7CH6j/OxBb+y\nMIsaRwyxNpMiE2EBR5v2UfxDmjuufQD71rXfWqGyIXwyMpaeR4WBU8rd3FkC1yGR\nPAfAIZV2VqbvgVv03jBEFbpqH5hbVdq+cOskJmLj7ZgamGDyatFmczIWbtmKez2R\nFbMf62RUX7YhyyYiycMnZqtCU3IpLO1XNsCRdiFQMoit/PVgyQxX7R+J4iyl8Obp\npHIjNDDtJBskMDqM3uAJNe4ntzU7GtQOH00emMWqAwKBgQDMHMvYOVGEMEyxN0x8\nVWlgaRqboHDyhfk8dXDbWwiojS6Q4yGaZd8fX+B3b5GkAyyHJZlQXT0iXwuG915s\noP5b50C1khdLD3U3YVJJ+Lqvue6GjqZbC5JnAnJnYPl/UiF226wD8GtsEwWhWJt3\nabI4kYplPDt7Puj58je02YQ0fwKBgQDAlmyCb9eAwVBwyfCjLuvoXHzS8p/2v5sb\nByb1b57SiMTRplJP+UpeFsISgdgxgO7Do9G4FAUZ5L2CK0szhwskazo8gU6U6TtA\nVTMUE/lnQ26bbwCuvPUSzSfj48/8ZuRK6VEVzHXHGiW/DOO1JgB1N0M/b41Hqi8Q\nUSZrKIDK4wKBgBdaLBA+7o6bIAsecoe/FeFL5RltD78PiOZb4V+XWLRAAtXcxplt\nkkt6oqnHf/gtzMhhitrg7/+gtCbq4ki3WqKVIJglcLjLufNuFQYViPZV5W5Ln8jG\n2Cck5oXhWGoysVVx6IpC1Wd1/azqAE93Lka+kADpFT0Sg4ElLy5nvHJtAoGBAJRK\nf20Eb1y9/ZGLfRY5x/6YUKkhl1io+uaZ4D62XwXfuCVyOwlHfCLsxSz4/B5KGA9e\nsdpa1/6zKdT0PyiDAGpfgm0aaAazfCMyN21rX+xKeP2IQG9MIi0C+Yc5YGoKVBj2\nhLATSlEv6gatBxzyEQIwtkA/Rfr7qNeYlMuIWXtfAoGBAJzGFX+Py+iidg2/L5Mo\n+z4a40boV+ynkzEZQjd8vmGV1gyu3baIXXOCDm+ujQPO+Fz3WpSDPWNJ62/O8Wce\nu3zSIhFSB0kMBuU5jP+SoXLXXFlWoaUkJAIlFKYNq5fW63POXbLK25oewfBmL5m6\nRuEbETR1AovtwDYVRMjyH1ca\n-----END PRIVATE KEY-----\n",
+  "client_email": "sa-coraapp@ce-sap-latam-demo.iam.gserviceaccount.com",
+  "client_id": "112325353205347454513",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sa-coraapp%40ce-sap-latam-demo.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

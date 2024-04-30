@@ -1,0 +1,17 @@
+{
+    "cora_responses": [
+        "I'd be glad to help! Here's your answer!",
+        "Great question! Let me get your request...",
+        "Absolutely!",
+        "Of course! Here's the data requested."
+        ],
+    "cora_no_responses": [
+       "Hmm, I'm still learning about that. Could you rephrase your question, or provide more context?",
+       "I'm not able to find a direct answer right now.",
+       "That's a bit outside of my area of expertise.",
+       "I'm having trouble to find this information.",
+       "It seems like I might need some more training on that topic."
+        ]
+}
+
+
