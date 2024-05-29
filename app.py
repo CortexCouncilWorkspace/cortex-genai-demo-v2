@@ -29,8 +29,8 @@ CORA_RESPONSES = ASSISTANT_RESPONSE["cora_responses"]
 CORA_NO_RESPONSES = ASSISTANT_RESPONSE["cora_no_responses"]
 
 #Authentication Process
-CREDENTIALS = service_account.Credentials.from_service_account_file('config/ce-sap-latam-demo-8e943944d80b.json')
-CREDENTIALS = CREDENTIALS.with_scopes(['https://www.googleapis.com/auth/cloud-platform', 'https://www.googleapis.com/auth/bigquery'])
+CREDENTIALS = service_account.Credentials.from_service_account_file(VARIABLES["global"]["service_account_key"])
+CREDENTIALS = CREDENTIALS.with_scopes([scope.strip() for scope in VARIABLES["global"]["authentication_scope"].split(',')])
 
 #Init Clients
 BIGQUERY_CLIENT = BigQuery.Client(credentials=CREDENTIALS)
